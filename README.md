@@ -16,3 +16,4 @@ Create a spring-boot project using Spring Initializr from editor or https://star
 - Click add new configuration
 - Chose maven spring:run and save
 - Build the project and run
+- Browse http://localhost:8080
